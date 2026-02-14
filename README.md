@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**zahra-rezaei-abbas-abad/zahra-rezaei-abbas-abad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const aboutMe = {
+  fullName: "Zahra Rezaei Abbas Abad",
+  birthDay: "1997 November 13, Thursday",
+  education: [
+    "High School Diploma in Experimental Sciences",
+    "Certificate Diploma in English Language",
+    "B.Sc. in Nuclear Physics",
+  ],
+  skills: ["Html", "Css", "FlexBox", "CssGrid", "TailWind", "Git", "GitHub", "JavaScript"],
+  quote: "Do something that makes people's lives easier.",
+};
+```
